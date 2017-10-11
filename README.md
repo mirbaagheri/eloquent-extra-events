@@ -2,7 +2,7 @@
 
 >Note: This package is compatible with Laravel 5.5.X only.
 
-Installation:
+Installation
 ------------
 
 **Install:**
@@ -10,7 +10,9 @@ Installation:
 `composer require mostafamiri65/eloquent-extra-events`
 
 
-**Usage:**
+Usage
+------
+**Load package:**
 
 You just have to load `ExtraEventsTrait` in your `Eloquent Model`:
 
@@ -47,7 +49,7 @@ Event::listen("eloquent.attaching: App\YourCustom\EloquentCustom*", function ($e
         });
 ````
 
-LICENSE:
+LICENSE
 ----------
 This software is released under MIT license.
 
