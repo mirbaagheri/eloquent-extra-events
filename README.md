@@ -51,5 +51,5 @@ Event::listen("eloquent.attaching: App\YourCustom\EloquentCustom*", function ($e
 
 LICENSE
 ----------
-This software is released under MIT license.
+This package is released under MIT license.
 
