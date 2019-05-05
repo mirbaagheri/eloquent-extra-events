@@ -1,5 +1,5 @@
 {
-    "name": "mirbaagherii/eloquent-extra-events",
+    "name": "mirbaagheri/eloquent-extra-events",
     "description": "Events additional to the eloquent",
     "require": {
         "php": ">=7.0.0"
