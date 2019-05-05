@@ -1,12 +1,12 @@
 {
-    "name": "mostafamiri65/eloquent-extra-events",
+    "name": "mirbaagherii/eloquent-extra-events",
     "description": "Events additional to the eloquent",
     "require": {
         "php": ">=7.0.0"
     },
     "autoload": {
         "psr-4": {
-            "MostafaMiri65\\EloquentExtraEvents\\": "src"
+            "mirbaagheri\\EloquentExtraEvents\\": "src"
         }
     }
 }
