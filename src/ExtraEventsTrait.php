@@ -1,6 +1,6 @@
 <?php
 
-namespace MostafaMiri65\EloquentExtraEvents;
+namespace Mirbaagheri\EloquentExtraEvents;
 
 
 // Trait for models
