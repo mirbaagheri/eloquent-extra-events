@@ -7,7 +7,7 @@ Installation
 
 **Install:**
 
-`composer require mostafamiri65/eloquent-extra-events`
+`composer require mirbaagheri/eloquent-extra-events`
 
 
 Usage
