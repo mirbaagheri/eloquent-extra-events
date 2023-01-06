@@ -16,7 +16,7 @@ Usage
 
 You just have to load `ExtraEventsTrait` in your `Eloquent Model`:
 
-`use MostafaMiri65\EloquentExtraEvents\ExtraEventsTrait;`
+`use mirbaagheri\EloquentExtraEvents\ExtraEventsTrait;`
 
 
 **Events:**
