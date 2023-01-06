@@ -1,6 +1,6 @@
 <?php
 
-namespace MostafaMiri65\EloquentExtraEvents;
+namespace Mirbaagheri\EloquentExtraEvents;
 
 use Illuminate\Database\Eloquent\Relations\BelongsToMany as BelongsToManyEloquent;
 use Illuminate\Database\Eloquent\Collection;
